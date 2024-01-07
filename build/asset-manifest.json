@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/petadopter/static/js/main.690471d8.chunk.js",
+    "main.js.map": "/petadopter/static/js/main.690471d8.chunk.js.map",
+    "runtime-main.js": "/petadopter/static/js/runtime-main.ab34363c.js",
+    "runtime-main.js.map": "/petadopter/static/js/runtime-main.ab34363c.js.map",
+    "static/js/2.88e29650.chunk.js": "/petadopter/static/js/2.88e29650.chunk.js",
+    "static/js/2.88e29650.chunk.js.map": "/petadopter/static/js/2.88e29650.chunk.js.map",
+    "static/js/3.19c72a55.chunk.js": "/petadopter/static/js/3.19c72a55.chunk.js",
+    "static/js/3.19c72a55.chunk.js.map": "/petadopter/static/js/3.19c72a55.chunk.js.map",
+    "index.html": "/petadopter/index.html",
+    "static/js/2.88e29650.chunk.js.LICENSE.txt": "/petadopter/static/js/2.88e29650.chunk.js.LICENSE.txt",
+    "static/media/logo.c7c56d31.svg": "/petadopter/static/media/logo.c7c56d31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab34363c.js",
+    "static/js/2.88e29650.chunk.js",
+    "static/js/main.690471d8.chunk.js"
+  ]
+}
